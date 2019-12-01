@@ -1,0 +1,31 @@
+21:20:03 INFO  CubeServiceImpl - The cube exists
+21:20:03 INFO  CubeServiceImpl - The cube exists
+21:20:03 INFO  CubeServiceImpl - The cube exists
+21:20:03 INFO  CubeServiceImpl - The cube exists
+21:20:03 INFO  CubeServiceImpl - The cube exists
+21:20:03 INFO  CubeServiceImpl -  Base of the cube belongs to the plane ZOY
+21:47:08 INFO  DataValidator - INFO
+21:47:08 INFO  DataValidator - INFO
+21:48:42 INFO  DataValidator - INFO
+21:48:42 INFO  DataValidator - Unknown exception
+21:48:42 INFO  DataValidator - INFO
+21:48:42 INFO  DataValidator - Unknown exception
+21:52:02 INFO  DataValidator - INFO
+21:52:02 INFO  DataValidator - Unknown exception
+21:52:02 INFO  DataValidator - INFO
+21:52:02 INFO  DataValidator - Unknown exception
+11:27:15 ERROR DataValidator - File not found
+11:31:15 ERROR DataValidator - File not found
+11:31:44 ERROR DataValidator - File not found
+11:32:13 ERROR DataValidator - File not found
+11:34:34 ERROR DataValidator - File not found
+20:31:38 ERROR DataValidator - File not found
+20:32:13 ERROR DataValidator - File not found
+20:32:35 ERROR DataValidator - File not found
+20:33:32 ERROR DataValidator - File not found
+13:38:18 INFO  DataValidator - The cube exists
+13:38:18 INFO  DataValidator - The cube exists
+13:38:18 INFO  DataValidator - The cube exists
+13:38:18 INFO  DataValidator - The cube exists
+13:38:18 INFO  CubeServiceImpl -  Base of the cube belongs to the plane ZOY
+22:39:51 INFO  DataValidator - The cube exists
